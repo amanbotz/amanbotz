@@ -53,12 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amanbotz&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanbotz&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://raw.githubusercontent.com/amanbotz/amanbotz/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amanbotz&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://raw.githubusercontent.com/amanbotz/amanbotz/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/amanbotz/amanbotz/main/profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
 </p>
 
 ---
