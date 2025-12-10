@@ -80,7 +80,8 @@ A Telegram bot that fetches **movie posters, ratings & information** using
 
 ---
 
-## 🐍 Snake Contribution Graph
+## 📈 Contribution Graph
 
-![GitHub Snake dark](https://github.com/amanbotz/amanbotz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/amanbotz/amanbotz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanbotz&theme=tokyo-night&area=true&hide_border=true" />
+</p>
