@@ -82,7 +82,5 @@ A Telegram bot that fetches **movie posters, ratings & information** using
 
 ## 🐍 Snake Contribution Graph
 
-> Runs via GitHub Actions workflow (`snake.yml`)
-
 ![GitHub Snake dark](https://github.com/amanbotz/amanbotz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake light](https://github.com/amanbotz/amanbotz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
