@@ -5,7 +5,7 @@
 <!-- Typing Header -->
 <p align="center">
   <a href="https://github.com/amanbotz">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Aman+%F0%9F%91%8B;Bot+Developer+%7C+Automation+Enthusiast;I+build+cool+stuff+with+code;Always+learning+something+new+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Aman Chaudhary+%F0%9F%91%8B;Bot+Developer+%7C+Automation+Enthusiast;I+build+cool+stuff+with+code;Always+learning+something+new+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
