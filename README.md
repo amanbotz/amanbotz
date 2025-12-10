@@ -50,19 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amanbotz/amanbotz/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amanbotz/amanbotz/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" />
-  <img src="https://raw.githubusercontent.com/amanbotz/amanbotz/main/profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
-</p>
-
----
-
 ## 🚀 My Projects
 
 ### 🔹 [Poster-Bot 🎬](https://github.com/amanbotz/Poster-Bot)
